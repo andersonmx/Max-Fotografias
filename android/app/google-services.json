@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "651145255246",
+    "project_id": "max-fotografias",
+    "storage_bucket": "max-fotografias.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651145255246:android:da186bc4510cbe3ac7e61f",
+        "android_client_info": {
+          "package_name": "com.authapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651145255246-neh3s839gb7c9aqp5nq3nfgv27faeea8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH4R8fcR8rxoCOPEZ_DTxYXW-YEZwHfuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651145255246-neh3s839gb7c9aqp5nq3nfgv27faeea8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
